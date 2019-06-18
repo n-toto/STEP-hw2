@@ -1,4 +1,4 @@
-# Usage: ./hw2_1.py (inputsize) | python3 hw2_1plot.py
+# Usage: ./hw2_1.sh (inputsize) | python3 hw2_1plot.py
 
 # Read the input size and time
 import sys
